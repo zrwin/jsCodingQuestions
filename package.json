@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "name": "js_coding_questoins",
+  "version": "1.0.0",
+  "main": "reverseArray.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev" : "nodemon reverseArray.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

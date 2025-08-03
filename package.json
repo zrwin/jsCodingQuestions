@@ -7,7 +7,7 @@
   "main": "reverseArray.js",
   "devDependencies": {},
   "scripts": {
-    "dev" : "nodemon reverseArray.js"
+    "dev" : "nodemon reverseString.js"
   },
   "keywords": [],
   "author": "",
